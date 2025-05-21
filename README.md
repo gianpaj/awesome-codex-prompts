@@ -1,3 +1,5 @@
+# Awesome Codex Prompts
+
 1. `Add an AGENTS.md that explains how an AI agent can run, test, and maintain this repo, including key commands, workflows, and known pitfalls.`
 1. `Look for vulnerabilities and create a security review report and give me actionable tasks`
 1. `Carefully review this repo, and propose 3 high impact well-scoped PRs`
